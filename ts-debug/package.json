@@ -1,0 +1,15 @@
+{
+  "name": "ts-debug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^3.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "tsc -p tsconfig.json && node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
